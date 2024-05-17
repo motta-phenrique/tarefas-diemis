@@ -1,0 +1,24 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  .container {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .lugar {
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
